@@ -56,7 +56,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 ## 🚀 Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Im-Dilasna/Alexie-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Im-Dilasna-real/music)
 
 
 ## 🚀 Okteto Deployment
